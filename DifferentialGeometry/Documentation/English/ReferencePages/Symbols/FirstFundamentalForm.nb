@@ -1,0 +1,3 @@
+FirstFundamentalForm
+In[1]:= Needs["DifferentialGeometry`"]
+La prima forma fondamentale...
